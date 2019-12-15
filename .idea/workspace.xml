@@ -13,7 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af47e290-4494-49ce-9c3d-398308a623b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/diesel_migrations/build.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/diesel_migrations/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/diesel_migrations/Cargo.toml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/diesel_migrations/Cargo.toml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -72,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/diesel_migrations/migrations_macros/Cargo.toml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-end-line="14" />
+              <caret line="13" column="12" selection-start-line="13" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -195,6 +195,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/diesel_migrations" />
@@ -239,18 +240,18 @@
       <workItem from="1576155448768" duration="3052000" />
       <workItem from="1576163446340" duration="5831000" />
       <workItem from="1576227425041" duration="2921000" />
-      <workItem from="1576416055097" duration="940000" />
+      <workItem from="1576416055097" duration="1401000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13900000" />
+    <option name="totallyTimeSpent" value="14361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-275" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31203407" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31203407" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -262,7 +263,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32928064" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32826748" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32826748" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -487,9 +488,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/diesel_migrations/build.rs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/diesel_migrations/migrations_macros/build.rs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -500,14 +498,17 @@
     <entry file="file://$PROJECT_DIR$/diesel_migrations/migrations_macros/Cargo.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-end-line="14" />
+          <caret line="13" column="12" selection-start-line="13" selection-end-line="14" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diesel_migrations/build.rs">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/diesel_migrations/Cargo.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
