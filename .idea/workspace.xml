@@ -12,9 +12,7 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af47e290-4494-49ce-9c3d-398308a623b1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/diesel_migrations/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/diesel_migrations/Cargo.toml" afterDir="false" />
-    </list>
+    <list default="true" id="af47e290-4494-49ce-9c3d-398308a623b1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/diesel_migrations/Cargo.toml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -247,18 +245,17 @@
       <workItem from="1576155448768" duration="3052000" />
       <workItem from="1576163446340" duration="5831000" />
       <workItem from="1576227425041" duration="2921000" />
-      <workItem from="1576416055097" duration="1977000" />
+      <workItem from="1576416055097" duration="2170000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14937000" />
+    <option name="totallyTimeSpent" value="15130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-275" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31203407" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31203407" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -270,7 +267,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32928064" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32826748" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32826748" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -526,7 +523,7 @@
     <entry file="file://$PROJECT_DIR$/diesel_migrations/Cargo.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
